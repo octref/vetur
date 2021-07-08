@@ -601,7 +601,7 @@
     "@types/lodash": "^4.14.170",
     "@types/minimist": "^1.2.1",
     "@types/mocha": "^8.2.2",
-    "@types/node": "^15.12.4",
+    "@types/node": "^16.0.1",
     "@types/shelljs": "^0.8.8",
     "@types/vscode": "^1.52.0",
     "esbuild": "^0.12.5",
